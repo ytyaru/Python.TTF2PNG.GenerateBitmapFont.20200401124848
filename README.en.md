@@ -4,6 +4,10 @@
 
 Bitmap font creation (TTF → PNG)
 
+# DEMO
+
+![demo](doc/x8y12pxTheStrongGamer.png)
+
 # Features
 
 * CLI: Output 256 * 256 PNG from specified TTF

@@ -4,6 +4,10 @@
 
 　ビットマップフォント作成（TTF→PNG）
 
+# デモ
+
+![demo](doc/x8y12pxTheStrongGamer.png)
+
 # 特徴
 
 * CLI: 指定したTTFから256*256のPNGを出力する
